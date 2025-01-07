@@ -9,3 +9,8 @@
   
   ![image](https://github.com/user-attachments/assets/1b2c610c-0628-4e8d-b275-11dfd92bcc63)
 
+  - Now, link the **"tailwind.config.js"** file with the project:
+    
+    ![image](https://github.com/user-attachments/assets/5f8ac683-03dc-4918-a042-bb2a6a8b45f3)
+
+
