@@ -4,7 +4,7 @@
 -  Go to the link: https://tailwindcss.com/docs/installation/play-cdn
 -  Add the Play CDN script tag to the **head tag** of the HTML file.
 ![image](https://github.com/user-attachments/assets/d64b2e1b-3712-464b-85b4-bcce782de27d)
--  Then Create a js file named **"tailwind.config.js"** inside the js folder of project.
+-  Then Create a js file named **"tailwind.config.js (tailwind custom file for css)"** inside the js folder of project.
 -  Then Copy-Paste the code below:
   
   ![image](https://github.com/user-attachments/assets/1b2c610c-0628-4e8d-b275-11dfd92bcc63)
