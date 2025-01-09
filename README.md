@@ -18,4 +18,8 @@
 ![image](https://github.com/user-attachments/assets/0d42b1b3-fbb5-4a1d-a09c-f8f57de14e35)
 
 
+### <ins> IMPORTANT NOTE </ins>
+*  If Tailwind CSS is running with the **Tailwind CLI tool**, then, after shutting down the VS Code, the Tailwind CSS may not work for new code. Therefore, we need to excute the command below in the terminal:
+  ![image](https://github.com/user-attachments/assets/45bbe727-7284-4ad2-aa71-bcad5eb66785)
+
 
