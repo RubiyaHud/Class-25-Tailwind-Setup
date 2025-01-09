@@ -9,8 +9,13 @@
   
   ![image](https://github.com/user-attachments/assets/1b2c610c-0628-4e8d-b275-11dfd92bcc63)
 
-  - Now, link the **"tailwind.config.js"** file with the project:
+  - Finally, link the **"tailwind.config.js"** file with the project:
     
     ![image](https://github.com/user-attachments/assets/5f8ac683-03dc-4918-a042-bb2a6a8b45f3)
+-  Now, try some tailwind class, such as bg-(color_name)-(color_density) 
+  ![image](https://github.com/user-attachments/assets/bdfdc9fd-5445-4cf3-8031-db8730102b31)
+-  And get the output below:
+![image](https://github.com/user-attachments/assets/0d42b1b3-fbb5-4a1d-a09c-f8f57de14e35)
+
 
 
